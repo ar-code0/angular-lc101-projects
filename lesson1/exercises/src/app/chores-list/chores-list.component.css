@@ -1,0 +1,13 @@
+.chores h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: greenyellow;
+    text-decoration: underline;
+
+}
+.chores ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16x;
+    color: orange;
+    font-style: italic;
+}
